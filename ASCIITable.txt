@@ -1,0 +1,183 @@
+================================================================
+| 00100000  32 20     01000000  64 40  @  01100000  96 60  `   |
+| 00100001  33 21  !  01000001  65 41  A  01100001  97 61  a   |
+| 00100010  34 22  "  01000010  66 42  B  01100010  98 62  b   |
+| 00100011  35 23  #  01000011  67 43  C  01100011  99 63  c   |
+| 00100100  36 24  $  01000100  68 44  D  01100100 100 64  d   |
+| 00100101  37 25  %  01000101  69 45  E  01100101 101 65  e   |
+| 00100110  38 26  &  01000110  70 46  F  01100110 102 66  f   |
+| 00100111  39 27  '  01000111  71 47  G  01100111 103 67  g   |
+| 00101000  40 28  (  01001000  72 48  H  01101000 104 68  h   |
+| 00101001  41 29  )  01001001  73 49  I  01101001 105 69  i   |
+| 00101010  42 2A  *  01001010  74 4A  J  01101010 106 6A  j   |
+| 00101011  43 2B  +  01001011  75 4B  K  01101011 107 6B  k   |
+| 00101100  44 2C  ,  01001100  76 4C  L  01101100 108 6C  l   |
+| 00101101  45 2D  -  01001101  77 4D  M  01101101 109 6D  m   |
+| 00101110  46 2E  .  01001110  78 4E  N  01101110 110 6E  n   |
+| 00101111  47 2F  /  01001111  79 4F  O  01101111 111 6F  o   |
+| 00110000  48 30  0  01010000  80 50  P  01110000 112 70  p   |
+| 00110001  49 31  1  01010001  81 51  Q  01110001 113 71  q   |
+| 00110010  50 32  2  01010010  82 52  R  01110010 114 72  r   |
+| 00110011  51 33  3  01010011  83 53  S  01110011 115 73  s   |
+| 00110100  52 34  4  01010100  84 54  T  01110100 116 74  t   |
+| 00110101  53 35  5  01010101  85 55  U  01110101 117 75  u   |
+| 00110110  54 36  6  01010110  86 56  V  01110110 118 76  v   |
+| 00110111  55 37  7  01010111  87 57  W  01110111 119 77  w   |
+| 00111000  56 38  8  01011000  88 58  X  01111000 120 78  x   |
+| 00111001  57 39  9  01011001  89 59  Y  01111001 121 79  y   |
+| 00111010  58 3A  :  01011010  90 5A  Z  01111010 122 7A  z   |
+| 00111011  59 3B  ;  01011011  91 5B  [  01111011 123 7B  {   |
+| 00111100  60 3C  <  01011100  92 5C  \  01111100 124 7C  |   |
+| 00111101  61 3D  =  01011101  93 5D  ]  01111101 125 7D  }   |
+| 00111110  62 3E  >  01011110  94 5E  ^  01111110 126 7E  ~   |
+| 00111111  63 3F  ?  01011111  95 5F  _  01111111 127 7F  DEL |
+================================================================
+
+
+================================================================================
+|  0 00 NUL (null)                       16 10 DLE (data link escape)          |
+|  1 01 SOH (start of heading)           17 11 DC1 (device control 1)          |
+|  2 02 STX (start of text)              18 12 DC2 (device control 2)          |
+|  3 03 ETX (end of text)                19 13 DC3 (device control 3)          |
+|  4 04 EOT (end of transmission)        20 14 DC4 (device control 4)          |
+|  5 05 ENQ (enquiry)                    21 15 NAK (negative acknowledge)      |
+|  6 06 ACK (acknowledge)                22 16 SYN (synchronous idle)          |
+|  7 07 BEL (bell)                       23 17 ETB (end of trans. block)       |
+|  8 08 BS  (backspace)                  24 18 CAN (cancel)                    |
+|  9 09 TAB (horizontal tab)             25 19 EM  (end of medium)             |
+| 10 0A LF  (NL line feed, new line)     26 1A SUB (substitute)                |
+| 11 0B VT  (vertical tab)               27 1B ESC (escape)                    |
+| 12 0C FF  (NP form feed, new page)     28 1C FS  (file separator)            |
+| 13 0D CR  (carriage return)            29 1D GS  (group separator)           |
+| 14 0E SO  (shift out)                  30 1E RS  (record separator)          |
+| 15 0F SI  (shift in)                   31 1F US  (unit separator)            |
+================================================================================
+|    128    Ç       (Majuscule C-cedilla )                                     |
+|    129    ü       (letter "u" with umlaut or diaeresis; "u-umlaut")          |
+|    130    é       (letter "e" with acute accent or "e-acute")                |
+|    131    â       (letter "a" with circumflex accent or "a-circumflex")      |
+|    132    ä       (letter "a" with umlaut or diaeresis; "a-umlaut")          |
+|    133    à       (letter "a" with grave accent)                             |
+|    134    å       (letter "a" with a ring)                                   |
+|    135    ç       (Minuscule c-cedilla)                                      |
+|    136    ê       (letter "e" with circumflex accent or "e-circumflex")      |
+|    137    ë       (letter "e" with umlaut or diaeresis; "e-umlaut")          |
+|    138    è       (letter "e" with grave accent)                             |
+|    139    ï       (letter "i" with umlaut or diaeresis; "i-umlaut")          |
+|    140    î       (letter "i" with circumflex accent or "i-circumflex")      |
+|    141    ì       (letter "i" with grave accent)                             |
+|    142    Ä       (letter "A" with umlaut or diaeresis; "A-umlaut")          |
+|    143    Å       (letter "A" with a ring)                                   |
+|    144    É       (Capital letter "E" with acute accent or "E-acute")        |
+|    145    æ       (Latin diphthong "ae")                                     |
+|    146    Æ       (Latin diphthong "AE")                                     |
+|    147    ô       (letter "o" with circumflex accent or "o-circumflex")      |
+|    148    ö       (letter "o" with umlaut or diaeresis; "o-umlaut")          |
+|    149    ò       (letter "o" with grave accent)                             |
+|    150    û       (letter "u" with circumflex accent or "u-circumflex")      |
+|    151    ù       (letter "u" with grave accent)                             |
+|    152    ÿ       (letter "y" with diaeresis)                                |
+|    153    Ö       (letter "O" with umlaut or diaeresis; "O-umlaut")          |
+|    154    Ü       (letter "U" with umlaut or diaeresis; "U-umlaut")          |
+|    155    ø       (slashed zero or empty set)                                |
+|    156    £       (Pound sign; symbol for the pound sterling)                |
+|    157    Ø       (slashed zero or empty set)                                |
+|    158    ×       (multiplication sign)                                      |
+|    159    ƒ       (function sign; f with hook sign; florin sign )            |
+|    160    á       (letter "a" with acute accent or "a-acute")                |
+|    161    í       (letter "i" with acute accent or "i-acute")                |
+|    162    ó       (letter "o" with acute accent or "o-acute")                |
+|    163    ú       (letter "u" with acute accent or "u-acute")                |
+|    164    ñ       (letter "n" with tilde; enye)                              |
+|    165    Ñ       (letter "N" with tilde; enye)                              |
+|    166    ª       (feminine ordinal indicator )                              |
+|    167    º       (masculine ordinal indicator)                              |
+|    168    ¿       (Inverted question marks)                                  |
+|    169    ®       (Registered trademark symbol)                              |
+|    170    ¬       (Logical negation symbol)                                  |
+|    171    ½       (One half)                                                 |
+|    172    ¼       (Quarter or one fourth)                                    |
+|    173    ¡       (Inverted exclamation marks)                               |
+|    174    «       (Guillemets or angle quotes)                               |
+|    175    »       (Guillemets or angle quotes)                               |
+|    176    ░                                                                  |
+|    177    ▒                                                                  |
+|    178    ▓                                                                  |
+|    179    │       (Box drawing character)                                    |
+|    180    ┤       (Box drawing character)                                    |
+|    181    Á       (Capital letter "A" with acute accent or "A-acute")        |
+|    182    Â       (letter "A" with circumflex accent or "A-circumflex")      |
+|    183    À       (letter "A" with grave accent)                             |
+|    184    ©       (Copyright symbol)                                         |
+|    185    ╣       (Box drawing character)                                    |
+|    186    ║       (Box drawing character)                                    |
+|    187    ╗       (Box drawing character)                                    |
+|    188    ╝       (Box drawing character)                                    |
+|    189    ¢       (Cent symbol)                                              |
+|    190    ¥       (YEN and YUAN sign)                                        |
+|    191    ┐       (Box drawing character)                                    |
+|    192    └       (Box drawing character)                                    |
+|    193    ┴       (Box drawing character)                                    |
+|    194    ┬       (Box drawing character)                                    |
+|    195    ├       (Box drawing character)                                    |
+|    196    ─       (Box drawing character)                                    |
+|    197    ┼       (Box drawing character)                                    |
+|    198    ã       (letter "a" with tilde or "a-tilde")                       |
+|    199    Ã       (letter "A" with tilde or "A-tilde")                       |
+|    200    ╚       (Box drawing character)                                    |
+|    201    ╔       (Box drawing character)                                    |
+|    202    ╩       (Box drawing character)                                    |
+|    203    ╦       (Box drawing character)                                    |
+|    204    ╠       (Box drawing character)                                    |
+|    205    ═       (Box drawing character)                                    |
+|    206    ╬       (Box drawing character)                                    |
+|    207    ¤       (generic currency sign )                                   |
+|    208    ð       (lowercase "eth")                                          |
+|    209    Ð       (Capital letter "Eth")                                     |
+|    210    Ê       (letter "E" with circumflex accent or "E-circumflex")      |
+|    211    Ë       (letter "E" with umlaut or diaeresis; "E-umlaut")          |
+|    212    È       (letter "E" with grave accent)                             |
+|    213    ı       (lowercase dot less i)                                     |
+|    214    Í       (Capital letter "I" with acute accent or "I-acute")        |
+|    215    Î       (letter "I" with circumflex accent or "I-circumflex")      |
+|    216    Ï       (letter "I" with umlaut or diaeresis; "I-umlaut")          |
+|    217    ┘       (Box drawing character)                                    |
+|    218    ┌       (Box drawing character)                                    |
+|    219    █       (Block)                                                    |
+|    220    ▄                                                                  |
+|    221    ¦       (vertical broken bar )                                     |
+|    222    Ì       (letter "I" with grave accent)                             |
+|    223    ▀                                                                  |
+|    224    Ó       (Capital letter "O" with acute accent or "O-acute")        |
+|    225    ß       (letter "Eszett"; "scharfes S" or "sharp S")               |
+|    226    Ô       (letter "O" with circumflex accent or "O-circumflex")      |
+|    227    Ò       (letter "O" with grave accent)                             |
+|    228    õ       (letter "o" with tilde or "o-tilde")                       |
+|    229    Õ       (letter "O" with tilde or "O-tilde")                       |
+|    230    µ       (Lowercase letter "Mu"; micro sign or micron)              |
+|    231    þ       (capital letter "Thorn")                                   |
+|    232    Þ       (lowercase letter "thorn")                                 |
+|    233    Ú       (Capital letter "U" with acute accent or "U-acute")        |
+|    234    Û       (letter "U" with circumflex accent or "U-circumflex")      |
+|    235    Ù       (letter "U" with grave accent)                             |
+|    236    ý       (letter "y" with acute accent)                             |
+|    237    Ý       (Capital letter "Y" with acute accent)                     |
+|    238    ¯       (macron symbol)                                            |
+|    239    ´       (Acute accent)                                             |
+|    240    ¬       (Hyphen)                                                   |
+|    241    ±       (Plus-minus sign)                                          |
+|    242    ‗       (underline or underscore)                                  |
+|    243    ¾       (three quarters)                                           |
+|    244    ¶       (paragraph sign or pilcrow)                                |
+|    245    §       (Section sign)                                             |
+|    246    ÷       (The division sign; Obelus)                                |
+|    247    ¸       (cedilla)                                                  |
+|    248    °       (degree symbol )                                           |
+|    249    ¨       (Diaeresis)                                                |
+|    250    •       (Interpunct or space dot)                                  |
+|    251    ¹       (superscript one)                                          |
+|    252    ³       (cube or superscript three)                                |
+|    253    ²       (Square or superscript two)                                |
+|    254    ■       (black square)                                             |
+|    255    nbsp    (non-breaking space or no-break space)                     |
+================================================================================
