@@ -1,4 +1,4 @@
-This is a draft of an essay meant to be a reblog to https://www.tumblr.com/fastfouriertransfem/789342567132250112/you-have-inspired-me-divorce-enjoyer-i-thank?source=share. It was written using Obsidian. Please critique!
+This is a draft of an essay meant to be a reblog to https://www.tumblr.com/fastfouriertransfem/789342567132250112/you-have-inspired-me-divorce-enjoyer-i-thank?source=share. It was written using Obsidian. Please send critique to me on Discord, or DM me at tumblr.com/fastfouriertransfem if you don't have my discord!
 
 I know what this post was originally about. But [the death of the author](https://en.wikipedia.org/wiki/The_Death_of_the_Author?wprov=sfla1) has struck, and I regret to inform @divorce-enjoyer: you are the deceased.
 
