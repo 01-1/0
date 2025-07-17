@@ -82,11 +82,11 @@ What could be worse than this?
 
 I'll tell you what.
 
-# Farming.
+# Fish farming.
 
-Yes, **farming**. Animal farming. Specifically, **fish farming**.
+Hear me out— I'm not joking.
 
-Factory farming, and its worst organ, fish farming, exists because the meat and fish eaters of the world ([myself included](https://www.tumblr.com/fastfouriertransfem/789340937673441280/addendum-you-probably-see-me-as-a-hypocrite-here?source=share)) prioritize their wants over the wants of the [100 billion killed every year for our pleasure.](https://ourworldindata.org/how-many-animals-are-factory-farmed) because of our desire, our want, for efficiency. just that tiny extra bit of efficiency. to save a buck, we cage — enslave — animals, giving them zero access to the outside world. 
+Factory farming, and its worst organ, fish farming, exist because the meat and fish eaters of the world ([myself included](https://www.tumblr.com/fastfouriertransfem/789340937673441280/addendum-you-probably-see-me-as-a-hypocrite-here?source=share)) prioritize their wants over the wants of the [100 billion killed every year for our pleasure.](https://ourworldindata.org/how-many-animals-are-factory-farmed) because of our desire, our want, for efficiency. just that tiny extra bit of efficiency. to save a buck, we cage — enslave — animals, giving them zero access to the outside world. 
 
 Farmed fish, fish that we enslave for our consumption, number [73 to 180 billion,](https://thehumaneleague.org.uk/article/fish-farming) between 9 and 22 times our human population of eight billion. 
 
