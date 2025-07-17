@@ -88,9 +88,9 @@ Hear me out— I'm not joking.
 
 Factory farming, and its worst organ, fish farming, exist because the meat and fish eaters of the world ([myself included](https://www.tumblr.com/fastfouriertransfem/789340937673441280/addendum-you-probably-see-me-as-a-hypocrite-here?source=share)) prioritize their wants over the wants of the [100 billion killed every year for our pleasure.](https://ourworldindata.org/how-many-animals-are-factory-farmed) because of our desire, our want, for efficiency. just that *tiny extra bit* of efficiency. To save a buck, we cage — enslave — animals, giving them zero access to the outside world.
 
-Farmed fish, fish that we enslave for our consumption, number [73 to 180 billion,](https://thehumaneleague.org.uk/article/fish-farming) between 9 and 22 times our human population of eight billion. 
+Farmed fish, fish that we enslave for our consumption, number [73 to 180 billion,](https://thehumaneleague.org.uk/article/fish-farming) between 9 and 22 times our human population of eight billion. The number of fish *currently* alive is around the number of humans which have *ever* been alive (around 100 billion.)
 
-***This* is our greatest wrong.**
+And ***this* is our greatest wrong.**
 
 To show how truly awful this wrong is, I'll compare it to our second greatest wrong: the 0.97 to 2.74 ***trillion*** wild fish killed each year. The lower end of that estimate, 0.97 trillion, is 161666⅔ times the number of Jews killed in the Holocaust. And this is every year.
 
