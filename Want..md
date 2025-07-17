@@ -138,7 +138,7 @@ And we do this because we ***want*** to do this. We ***should*** want to do this
 
 **Utilitarianism**: A consequentialist moral theory that seeks to maximize utility, for some definition of it.
 
-I deem this PQRSTU, pronounced pick we're stew.
+I deem this PQRSTU, pronounced "pick we're stew", or "We're Stew" for short.
 
 As for Quasiperfect, this isn't a perfect moral theory. For example, would you kill all of humanity for a trillion orgasming rats to orgasm forever? You wouldn't. But those rats want to orgasm forever.
 
