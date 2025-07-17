@@ -148,7 +148,7 @@ I deem this PQRSTU, pronounced "pick we're stew", or "We're Stew" for short.
 
 As for Quasiperfect, this isn't a perfect moral theory. For example, would you kill all of humanity for a trillion orgasming rats to orgasm forever? You wouldn't. But those rats want to orgasm forever.
 
-But it's a moral theory that works in most cases. And we should use it for most cases. In special cases, like the orgasming rats, we can and should think beyond the theory. 
+But it's a moral theory that works in most cases. And we should use it for most cases. In special cases, like the orgasming rats, or [AI alignment](https://aisafety.info), we can and should think beyond the theory.
 
 To all sentient beings: Let us all come together and use PQRSTU in all our conscious actions, to guide the results of our desires.
 
