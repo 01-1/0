@@ -150,6 +150,6 @@ As for Quasiperfect, this isn't a perfect moral theory. For example, would you k
 
 But it's a moral theory that works in most cases. And we should use it for most cases. In special cases, like the orgasming rats, or [AI alignment](https://aisafety.info), we can and should think beyond the theory.
 
-To all sentient beings: Let us all come together and use PQRSTU in all our conscious actions, to guide the results of our desires.
+So, to all sentient beings: Let us all come together and use PQRSTU in all our conscious actions, to guide the results of our desires.
 
 And to humanity: So long, and thanks for all the fish farming.
