@@ -127,10 +127,15 @@ We must maximize wants; **preferences; *utility*.**
 And we do this because we ***want*** to do this. We ***should*** want to do this. This should be what guides us in life — our moral compass, a beacon in the hazy storm that is life. This should be the system of morality that we all adopt. This is preference utilitarianism — namely, preference quasiperfect real sentient total utilitarianism.
 
 **Preference**: Utility is calculated based on the preferences of these beings: https://en.wikipedia.org/wiki/Preference_utilitarianism
+
 **Quasi-perfect**: I'll discuss this later.
+
 **Real**: Fulfillment of preferences is measured based on reality, not the experience of the preferrer. I made this up but it probably exists I just haven't found it.
+
 **Sentient**: All sentient beings count: https://en.wikipedia.org/wiki/Sentientism
+
 **Total**: The sum of preferences matters, not the average: https://en.wikipedia.org/wiki/Average_and_total_utilitarianism
+
 **Utilitarianism**: A consequentialist moral theory that seeks to maximize utility, for some definition of it.
 
 I deem this PQRSTU, pronounced pick we're stew.
