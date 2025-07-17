@@ -46,7 +46,7 @@ Rape exists because the rapist prioritizes their want over the raped.
 
 Murder exists because the murderer prioritizes their want over the murdered.
 
-Climate change exists because the fossil fuel industry, those countries that produce the world's oil, America, OPEC, China – which uses half of the world's coal, the military industrial complex funded by these companies to drive oil prices up through brutal, genocidal war. these entities have no regard for the future of humanity. no regard for their progeny – and by them, I mean the executives and leaders who doom us, with no regard for the billions who will be affected by their greed. 
+Climate change exists because the fossil fuel industry, those countries that produce the world's oil, America, OPEC, China – which uses half of the world's coal, the military industrial complex funded by these companies to drive oil prices up through brutal, genocidal war. These entities have no regard for the future of humanity. No regard for their progeny – and by them, I mean the executives and leaders who doom us, with no regard for the billions who will be affected by their greed. 
 
 Their greed. 
 
