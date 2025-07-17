@@ -6,7 +6,7 @@ This post is about everything that was, is, or will be a result of conscious act
 
 Everything we do, every choice that we make, ***all that we have created on this Earth***— from minute choices like not pissing our pants, to monumental achievements like going to the moon, to the murderous horrors of the Holocaust, the Great Leap Forward, the simultaneous colonization and genocide of the Americas, chattel slavery, the mistreatment of 100 billion caged animals, and every other atrocity committed by our kind, to what may kill us — anthropogenic omnicide, the death of humanity if we cause it — if we are our own undoing.
 
-# Isn't everything we consciously do for the sake of wanting to do it?
+# Aren't all our actions results of our Wants?
 
 You'll immediately say — but what about, like, paying my taxes or something? or eating? or using the bathroom?
 
