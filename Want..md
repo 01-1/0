@@ -90,7 +90,7 @@ Factory farming, and its worst organ, fish farming, exists because the meat and 
 
 Farmed fish, fish that we enslave for our consumption, number [73 to 180 billion,](https://thehumaneleague.org.uk/article/fish-farming) between 9 and 22 times our human population of eight billion. 
 
-This is our ***greatest*** wrong.
+***This* is our greatest wrong.**
 
 To show how truly awful this wrong is, I'll compare it to our second greatest wrong: the 0.97 to 2.74 ***trillion*** wild fish killed each year. The lower end of that estimate, 0.97 trillion, is 161666⅔ times the number of Jews killed in the Holocaust. And this is every year.
 
