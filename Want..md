@@ -22,7 +22,7 @@ And thus, **all** our conscious actions are the result of our **wants**. That's 
 
 # Our Wrongs.
 
-Our atrocities are a result of our wants. Our atrocities are actions that we have performed, consciously, willingly, wantingly, to ourselves and to the animal kingdom that we are a part of. 
+Our wrongs are a result of our wants. Our wrongs are actions that we have performed, consciously, willingly, wantingly, to ourselves and to the animal kingdom that we are a part of. 
 
 And much of what is wrong with the world is, too, a product of these wants.
 
