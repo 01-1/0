@@ -1,4 +1,4 @@
-I know what this post was originally about. But [the death of the author](https://en.wikipedia.org/wiki/The_Death_of_the_Author?wprov=sfla1) has struck, and I regret to inform @divorce-enjoyer: you are the deceased.
+I know what [this post](https://www.tumblr.com/divorce-enjoyer/785313807215050752/i-didnt-know-you-were-allowed-to-do-things-for-the) was originally about. But [the death of the author](https://en.wikipedia.org/wiki/The_Death_of_the_Author?wprov=sfla1) has struck, and I regret to inform @divorce-enjoyer: you are the deceased.
 
 This post is about everything that was, is, or will be a result of conscious action.
 
