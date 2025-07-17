@@ -6,6 +6,8 @@ Everything we do, every choice that we make, ***all that we have created on this
 
 Note: This is a draft of an essay meant to be a reblog to https://www.tumblr.com/fastfouriertransfem/789342567132250112/you-have-inspired-me-divorce-enjoyer-i-thank?source=share. It was written using Obsidian (and GitHub for changes I made after publishing lol). Please critique! Send critiques to me on Discord, or DM me at tumblr.com/fastfouriertransfem if you don't have my discord! Also I'm gonna make an actual site for wearestew.com later! 
 
+# TODO: Make a table of contents or something.
+
 # Aren't all our actions results of our Wants?
 
 You'll immediately say — but what about, like, paying my taxes or something? or eating? or using the bathroom?
