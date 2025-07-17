@@ -27,12 +27,18 @@ Our wrongs are a result of our wants. Our wrongs are actions that we have perfor
 And much of what is wrong with the world is, too, a product of these wants.
 
 **Rape.**
+
 **Murder.**
+
 **Climate change.**
+
 **Poverty.**
+
 **Capitalism.**
+
 **Tuberculosis.** (I'll get to this.)
-And our greatest wrong, **fish farming.** Yes, I'm serious.
+
+And worst of all, **fish farming.** (Yes, I'm serious.)
 
 These are **all** products of the all-encompassing Apollyon that is human desire.
 
