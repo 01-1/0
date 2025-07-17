@@ -4,7 +4,7 @@ This post is about everything that was, is, or will be a result of conscious act
 
 Everything we do, every choice that we make, ***all that we have created on this Earth***— from minute choices like not pissing our pants, to monumental achievements like going to the moon, to the murderous horrors of the Holocaust, the Great Leap Forward, the simultaneous colonization and genocide of the Americas, chattel slavery, the mistreatment of 100 billion caged animals, and every other atrocity committed by our kind, to what may kill us — anthropogenic omnicide, the death of humanity if we cause it — if we are our own undoing.
 
-Note: This is a draft of an essay meant to be a reblog to https://www.tumblr.com/fastfouriertransfem/789342567132250112/you-have-inspired-me-divorce-enjoyer-i-thank?source=share. It was written using Obsidian (and GitHub for changes I made after publishing lol). Please critique! Send critiques to me on Discord, or DM me at tumblr.com/fastfouriertransfem if you don't have my discord!
+Note: This is a draft of an essay meant to be a reblog to https://www.tumblr.com/fastfouriertransfem/789342567132250112/you-have-inspired-me-divorce-enjoyer-i-thank?source=share. It was written using Obsidian (and GitHub for changes I made after publishing lol). Please critique! Send critiques to me on Discord, or DM me at tumblr.com/fastfouriertransfem if you don't have my discord! Also I'm gonna make an actual site for wearestew.com later! 
 
 # Aren't all our actions results of our Wants?
 
