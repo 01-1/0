@@ -227,7 +227,9 @@ And we do this because we ***want*** to do this. We ***should*** want to do this
 
 **Utilitarianism**: A consequentialist moral theory that seeks to maximize utility, for some definition of it.
 
-And I have now defined this. I deem this **PQRSTU**, pronounced "pick we're stew", or "We're Stew" for short. It's true — we are what we eat, and we eat stew! And often, the stew is morally bankrupt: stew with unethically farmed fish, for example. But with PQRSTU, we can choose to eat ethical stew, and become ethical in the process!
+And I have now defined this. I deem this **PQRSTU**, pronounced "pick we're stew", or "We're Stew" for short. 
+
+It's true — we are what we eat, and we eat stew! And often, the stew is morally bankrupt: stew with unethically farmed fish, for example. But with PQRSTU, we can choose to eat ethical stew, and become ethical in the process!
 
 As for Quasiperfect, this isn't a perfect moral theory. For example, would you kill all of humanity for a trillion orgasming rats to orgasm forever? You wouldn't. But those rats want to orgasm forever.
 
