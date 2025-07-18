@@ -217,9 +217,9 @@ And we do this because we ***want*** to do this. We ***should*** want to do this
 
 **Preference**: Utility is calculated based on the preferences of these beings: https://en.wikipedia.org/wiki/Preference_utilitarianism
 
-**Quasi-perfect**: I'll discuss this later.
+**Quasi-perfect**: I'll discuss this in a few paragraphs.
 
-**Real**: Fulfillment of preferences is measured based on reality, not the experience of the preferrer. I made this up but it probably exists I just haven't found it.
+**Real**: Fulfillment of preferences is measured based on reality, not the experience of the preferrer. like, objective truth should be prioritized over subjective and unreliable experiences: you should not cheat on your partner even if you can get away with it, and we should not be forced unknowingly into a simulation. (I made this idea up but it probably exists I just haven't found it.)
 
 **Sentient**: All sentient beings count: https://en.wikipedia.org/wiki/Sentientism
 
