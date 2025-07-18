@@ -194,7 +194,7 @@ Love trumps greed, trumps wrath, trumps sorrow, trumps hate (trumps Trump).
 
 And it will be what saves us, what reforms us, what creates a better world. 
 
-<TODO>: Discuss Singer's Famine, Affluence, and Morality.
+TODO: Discuss Singer's Famine, Affluence, and Morality.
 
 Because love is what brings us together.
 
