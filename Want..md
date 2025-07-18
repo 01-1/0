@@ -134,7 +134,7 @@ We are the producers of pain. We are the producers of suffering. How can we comf
 
 Lorem ipsum dolor sit amet. You probably know this as a placeholder text. But it actually comes from De finibus bonorum et malorum:
 
-> Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.
+> Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui do**lorem ipsum**, quia **dolor sit amet** consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.
 
 If you can't read Latin (me neither, lol) here's a translation ([H Rackam](https://archive.org/details/definibusbonoru02cicegoog)):
 
