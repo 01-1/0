@@ -122,7 +122,7 @@ And this is *wrong*.
 
 And hopefully now you see why this is the case. 
 
-Since every action we consciously take is a result of our wants. And these actions include these innumerable wrongs.
+Because every action we consciously take is a result of our wants. And these actions include these innumerable wrongs.
 
 Our own wants.
 
