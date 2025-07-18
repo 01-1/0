@@ -114,7 +114,11 @@ But if there is no hell, we will go unpunished for this sin.
 
 We are monsters. We are evil. We are immoral. Most people are— as Peter Singer has detailed, in "[Famine, Affluence, and](https://rintintin.colorado.edu/~vancecd/phil308/Singer2.pdf)
 # Morality".
-The natural state of humanity is egoism, specifically default egoism. It's called default because it is the default: people tend to act in their own self interest by default. And this is wrong. This is the cause of all of our problems: everything wrong with society, wrong with humanity, wrong with our species. Everything wrong that we have ever created. Every atrocity, every killing, every murder, every death. And hopefully now you see why this is the case. 
+The natural state of humanity is egoism, specifically default egoism: by default, people tend to act in their own self interest. 
+
+And this is *wrong*. 
+
+This is the cause of all of our problems: everything wrong with society, wrong with humanity, wrong with our species. Everything wrong that we have ever created. Every atrocity, every killing, every murder, every death. And hopefully now you see why this is the case. 
 
 Since every action we consciously take is a result of our wants. And these actions include these innumerable wrongs.
 
