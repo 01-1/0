@@ -124,9 +124,17 @@ And hopefully now you see why this is the case.
 
 Because every action we consciously take is a result of our wants. And these actions include these innumerable wrongs.
 
-Our own wants.
+It's all because of our wants.
 
-We must be go beyond our own wants.
+The sum total of humanity's wants. Has produced extraordinary suffering. 
+
+We are the producers of pain. We are the producers of suffering. How can we comfort ourselves, the murderers of all murderers? The producers of the very suffering we seek to avoid.
+
+Lorem ipsum dolor sit amet.
+
+-EDITING PLEASE WAIT
+
+We must be go beyond our wants.
 
 We must consider all our wants.
 
