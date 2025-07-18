@@ -154,7 +154,7 @@ Our wants, the sum total of our wants, ***all*** of our wants are wrong.
 
 Or *are they?*
 
-**Or are they??**
+***Or are they??***
 
 
 So far, we've only focused on the wrongs, the abject horrors of life. 
