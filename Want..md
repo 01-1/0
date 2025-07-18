@@ -130,7 +130,7 @@ The sum total of humanity's wants
 
 has produced *extraordinary* suffering.
 
-We are the producers of pain. We remain the producers of pain. How can we comfort ourselves, the murderers of all murderers, the source of the very suffering we seek to avoid?
+We are the producers of pain. We remain the producers of pain. And we have killed. How can we comfort ourselves, the murderers of all murderers, the source of the very suffering we seek to avoid?
 
 Lorem ipsum dolor sit amet. You probably know this as a placeholder text. But it actually comes from De finibus bonorum et malorum:
 
