@@ -118,7 +118,9 @@ The natural state of humanity is egoism, specifically default egoism: by default
 
 And this is *wrong*. 
 
-This is the cause of all of our problems: everything wrong with society, wrong with humanity, wrong with our species. Everything wrong that we have ever created. Every atrocity, every killing, every murder, every death. And hopefully now you see why this is the case. 
+*This is the cause of all of our problems: everything wrong with society, wrong with humanity, wrong with our species. Everything wrong that we have ever created. Every atrocity, every killing, every murder, every death.*
+
+And hopefully now you see why this is the case. 
 
 Since every action we consciously take is a result of our wants. And these actions include these innumerable wrongs.
 
