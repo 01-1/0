@@ -128,7 +128,7 @@ It's all because of our wants.
 
 The sum total of humanity's wants
 
-has produced extraordinary suffering.
+has produced *extraordinary* suffering.
 
 We are the producers of pain. We are the producers of suffering. How can we comfort ourselves, the murderers of all murderers, the producers of the very suffering we seek to avoid?
 
