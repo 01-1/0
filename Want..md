@@ -128,17 +128,77 @@ It's all because of our wants.
 
 The sum total of humanity's wants. Has produced extraordinary suffering. 
 
-We are the producers of pain. We are the producers of suffering. How can we comfort ourselves, the murderers of all murderers? The producers of the very suffering we seek to avoid.
+We are the producers of pain. We are the producers of suffering. How can we comfort ourselves, the murderers of all murderers, the producers of the very suffering we seek to avoid?
 
-Lorem ipsum dolor sit amet.
+Lorem ipsum dolor sit amet. You probably know this as a placeholder text. But it actually comes from De finibus bonorum et malorum:
 
--EDITING PLEASE WAIT
+> Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet consectetur adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.
 
-We must be go beyond our wants.
+If you can't read Latin (me neither, lol) here's a translation ([H Rackam](https://archive.org/details/definibusbonoru02cicegoog)):
+
+> No one rejects, dislikes or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter extremely painful consequences. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure [them] some great pleasure.
+
+That is to say: We pursue pleasure. We avoid pain. And all of us do. 
+
+Because we want to.
+
+Each and every one of us wants to.
+
+And this is wrong.
+
+Our wants, the sum total of our wants, all of our wants are wrong.
+
+Or *are they?*
+
+So far, we've only focused on the wrongs, the abject horrors of life. 
+
+But that's not all of life, is it?
+
+No.
+
+No, it isn't.
+
+Because life also contains happiness.
+
+Bliss.
+
+Euphoria.
+
+With dysphoria, there must also be euphoria; and with pain, there must also be pleasure.
+
+So again.
 
 We must consider all our wants.
 
-We must consider all of humanity. Or even yet, all sentient beings in the universe. 
+We must consider all of humanity. No— all sentient beings in the universe.
+
+Each of us must.
+
+We must go beyond the basic desire to satisfy only our own wants. 
+
+For there is a second desire we have evolved to want.
+
+Love.
+
+We must love each other. We must love all of humanity, all sentient beings, all of the beings in the universe.
+
+Some call it Agape. I call it universal love.
+
+And though I have mentioned it second, it is first in its strength.
+
+Love trumps all.
+
+Love trumps greed, trumps wrath, trumps sorrow, trumps hate (trumps Trump).
+
+And it will be what saves us, what reforms us, what creates a better world. 
+
+<TODO>: Discuss Singer's Famine, Affluence, and Morality.
+
+Because love is what brings us together.
+
+And we must band together.
+
+
 
 All of us, we the sentient beings, of the universe, or even, multiverse, must band together. Humans, animals, aliens, deities, anyone and everyone. We all must band together.
 
